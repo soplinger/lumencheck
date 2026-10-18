@@ -1,0 +1,20 @@
+# Brand palette for the docs site
+# Lines starting with # or ; are comments.
+
+ink = #1a1a1a
+paper = #ffffff
+cream = #faf6ec
+muted = #767676
+accent = #0b6e4f
+link = hsl(225, 83%, 45%)
+pale = #c7d2fe
+banner = rgb(255, 214, 0)
+
+pair ink paper
+pair ink cream
+pair muted paper
+pair muted paper large
+pair accent paper
+pair link cream aaa
+pair banner ink
+pair pale paper large
